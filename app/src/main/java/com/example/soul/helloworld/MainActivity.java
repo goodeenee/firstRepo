@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity{
     int n;
     int n1;
     EditText et;
-    Button bt;
+    Button bt;Button bt1;
     //EditText12
     //Button
 
